@@ -422,8 +422,7 @@
             "color": "#d6d6ddff"
           },
           "variable.parameter": {
-            "color": "#d6d6ddff",
-            "font_style": "italic"
+            "color": "#d6d6ddff"
           },
           "variable.ts": {
             "color": "#87c3ffff"
@@ -432,7 +431,8 @@
             "color": "#aaa0faff"
           },
           "variable.special": {
-            "color": "#82d2ceff"
+            "color": "#82d2ceff",
+            "font_style": "italic"
           },
           "variant": {
             "color": "#d6d6ddff"
@@ -508,6 +508,7 @@
         "editor.line_number": "#1414145c",
         "editor.active_line_number": "#141414bd",
         "editor.hover_line_number": "#141414bd",
+        "editor.indent_guide": "#d9d9d9ff",
         "editor.invisible": "#1414144d",
         "editor.wrap_guide": "#14141414",
         "editor.active_wrap_guide": "#14141433",
@@ -850,11 +851,11 @@
             "color": "#141414ff"
           },
           "variable.parameter": {
-            "color": "#141414ff",
-            "font_style": "italic"
+            "color": "#141414ff"
           },
           "variable.special": {
-            "color": "#be1744ff"
+            "color": "#be1744ff",
+            "font_style": "italic"
           },
           "variable.ts": {
             "color": "#005293ff"
